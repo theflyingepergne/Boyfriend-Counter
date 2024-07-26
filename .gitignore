@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
+Boyfriend_Counter/Saved/Autosaves/PackageRestoreData.json
+Boyfriend_Counter/Saved/Config/CrashReportClient
