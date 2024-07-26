@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Documents/GitHub/Boyfriend-Counter/Boyfriend_Counter/Content/UI/WB_Prompt.uasset",
+				"D:/Documents/GitHub/Boyfriend-Counter/Boyfriend_Counter/Content/Core/Core_PC.uasset",
+				"D:/Documents/GitHub/Boyfriend-Counter/Boyfriend_Counter/Content/UI/WB_LandingPage.uasset",
+				"D:/Documents/GitHub/Boyfriend-Counter/Boyfriend_Counter/Content/UI/WB_ClearWarning.uasset",
+				"D:/GitHub/Boyfriend-Counter/Boyfriend_Counter/Content/UI/WB_LandingPage.uasset"
+			]
+		}
+	]
+}
